@@ -1,3 +1,9 @@
+# Don't upload my credentials...
+credentials.py
+
+# Don't need VScode stuff
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
